@@ -96,7 +96,7 @@ pPattern.length = 0;  // Best way to clear arrays. There is only one instance of
 
 
 // Number of iterations: end - start
-/*
+
 Applying Math.floor() to each:
 
 Math.random(): [0, 1)
@@ -107,5 +107,5 @@ Math.random * 4 : [0, 4)
 
 Math.random * 4 + 1 : [1, 5)
 1, 2, 3, 4
-*/
+
 */
