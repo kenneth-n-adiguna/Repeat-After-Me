@@ -1,5 +1,7 @@
 /* These are key words that are now assigned characteristics.
-. : class (for div)
+._ : select elements under the specified class
+
+
 */
 
 h1 {
@@ -13,6 +15,13 @@ h1 {
 	margin-bottom: 50px;
 	border: 10px solid black;
 }
+
+/*
+.activeBox {
+	height: 100px;
+	width
+}
+*/
 
 .red {
 	background-color: white;
